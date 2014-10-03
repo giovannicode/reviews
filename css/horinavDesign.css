@@ -1,0 +1,72 @@
+.horinav { 
+	background-color: rgb(14, 12, 200);
+	width: 975px;
+	height: 50px;
+}
+
+.horinav ul {
+}
+
+.horinav ul li {
+    width: 100px;
+    top: -16px;
+	line-height: 50px;
+	text-align: center;
+}
+
+.horinav ul li a { 
+	color: white;
+	text-decoration: none;
+}
+
+.horinav ul li:hover {
+	background-color: rgb(14, 2, 150);
+}
+
+.horinav ul li ul {
+	z-index: 3;
+}
+
+.horinav ul li ul li {
+	background-color: rgb(245, 250, 255);
+}
+
+.horinav ul li ul li:hover {
+	background-color: rgb(120, 180, 255);
+}
+
+.horinav ul li:hover ul {
+}
+
+.horinav ul li:hover ul li{
+}
+
+.horinva ul li:hover ul li:hover{
+	background-color: rgb(255, 21, 100);
+	}
+
+.horinav ul li:hover ul li a {
+	color: black
+}
+
+.horinav ul li:hover ul li a:hover {
+}
+
+.top {
+}
+
+.first {
+}
+
+.horinav div{
+	float: right;
+	color: white;
+	font-style: bold;
+	font-size: 28px;
+}
+
+.horinav div a{
+	text-decoration: none;
+	color: white;
+	margin-right: 20px;
+}

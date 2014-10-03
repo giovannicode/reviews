@@ -1,0 +1,13 @@
+
+#carouselSlideshow
+{
+	position: relative;
+}
+
+#textHolder
+{
+	background-color: blue;
+	position: absolute;
+	top: 250px;
+
+}
